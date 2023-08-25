@@ -1,0 +1,11 @@
+game=/lud/board/space/line/Gomoku.lud
+START GAME OPTIONS
+Board Size/15x15
+Opening/Open-Outer
+End Rules/Free-style
+END GAME OPTIONS
+RNG internal state=-99,-83,113,111,-89,-59,32,-23
+numInitialPlacementMoves=0
+rankings=0.0,0.0,0.0
+SANDBOX=false
+LUDII_VERSION=1.3.11
